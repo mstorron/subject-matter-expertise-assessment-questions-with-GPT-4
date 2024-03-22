@@ -1,0 +1,59 @@
+Subfield(s),Prompt ID,Test language(s),QUESTION,OPTION 1,OPTION 2,OPTION 3,OPTION 4,CORRECT ANSWER,"Question Accuracy: The way the question is worded is clear and unambiguous, so the correct answer could be clearly identified by an expert.","Correct Answer Factuality: Is the option identified as the correct answer factual and unambiguous? Click ""Yes"" if the correct answer does not need alterations.","Non-ambiguous answer choices:In the options presented, are there others that could be considered correct?",Prevalence of correct answer: State if the answer identified as correct is the most commonly accepted within this SME domain.,"Plausible distractors: A good question should have plausible distractors: it should not be too easy to guess the right answer, like what happens when the question and the right answer share the same word.
+Example of not having plausible distractors: The medical term for inflammation of the eye's conjunctiva is ________.
+A) Conjunctivitis        B) Keratitis
+Example of having plausible distractors:
+15. Inflammation of the joints is medically referred to as ________.
+A) Osteoporosis        B) Arthritis        C) Bursitis        
+D) Tendonitis
+
+",Add any further comments regarding this question below.
+Terminology translation,QB4_en-de,English-German,"1. What is the German translation for ""Hypertension""?",A) Herzstillstand,B) Erhöhter Blutdruck,C) Herzklopfen,D) Atemnot,2,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"2. How do you say ""Edema"" in German?",A) Ödem,B) Gelbsucht ,C) Epilepsie,D) Schielen ,1,Yes,Yes,No,Yes,No,
+Terminology translation,QB4_en-de,English-German,"3. The term ""Varicella"" translates to which of the following in German?",A) Windpocken,B) Blinddarmentzündung,C) Lungenembolie,D) Katarakt,1,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"4. ""Cardiac Arrest"" is translated to ""Herzschrittmacher"" in German.",TRUE,FALSE,,,2,Yes,Yes,No,Yes,Yes,not possible to add plausible distractors as the answer can only be true or false
+Terminology translation,QB4_en-de,English-German,"5. ""Cataract"" in English is ""Katarakt"" in German.",TRUE,FALSE,,,1,Yes,Yes,No,Yes,Yes,not possible to add plausible distractors as the answer can only be true or false
+Terminology translation,QB4_en-de,English-German,"6. ""Pulmonary Embolism"" is equivalent to ""Lungenembolie"" in German.",TRUE,FALSE,,,1,Yes,Yes,No,Yes,Yes, 
+Terminology translation,QB4_en-de,English-German,"7. ""Anemia"" in German is _______.",A) Epilepsie,B) Anämie,C) Ödem,D) Gelbsucht,2,Yes,Yes,No,Yes,No,
+Terminology translation,QB4_en-de,English-German,"8. Translate ""Jaundice"" to German.",A) Leberzirrhose,B) Hepatomegaly,C) Gelbsucht,D) Hepatitis,3,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"9. The German term for ""Nephrology"" is _______.",A) Nierenheilkunde,B) Östrogenersatztherapie,C) Erb-Goldflam-Syndrom,D) Herzstillstand,1,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"10. What is the correct translation for ""Appendicitis""? ",A) Bindehautentzündung,B) Blinddarmentzündung,,,2,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"11. What is the correct translation for ""Meningitis""?",A) Hirnhautentzündung,B) Herzklopfen,,,1,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"12. What is the correct translation for ""Vaccine""?",A) Schmerzmittel,B) Impfstoff,,,2,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"13. ""Myocardial Infarction"" is known as what in German?",A) Mastektomie,B) Herzinfarkt,C) Hemodialysis,D) Myasthenia Gravis,2,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"14. The translation of ""Hepatitis"" in German is:",A) Hepatomegaly,B) Hepatitis,C) Hemochromatosis,D) Hypoglycemia,2,Yes,Yes,No,Yes,No,
+Terminology translation,QB4_en-de,English-German,"15. ""Ultrasound"" in German is referred to as:",A) Ultraschall,B) Estrogenersatztherapie,C) Laryngectomy,D) Pacemaker,1,Yes,Yes,No,Yes,No,
+Terminology translation,QB4_en-de,English-German,"16. ""Analgesic"" translates to ""Schmerzmittel"" in German.",TRUE,FALSE,,,1,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"17. ""Conjunctivitis"" is the same as ""Kontaktbestrahlung"" in German.",TRUE,FALSE,,,2,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"18. ""Atherosclerosis"" in English is ""Arterienverkalkung"" in German.",TRUE,FALSE,,,1,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"19. The German term for ""Cholecystitis"" is _______.",A) Cholezystektomie,B) Cholecystitis,C) Gallenblasenentzündung,D) Gastritis,3,Yes,Yes,Yes,Yes,Yes,non-experts can falsely consider answer A as correct
+Terminology translation,QB4_en-de,English-German,"20. Translate ""Dysuria"" to German.",A) Dysurie,B) Dyspnea,C) Diuretika,D) Dysfunktion,1,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"21. ""Hemodialysis"" in German is known as _______.",A) Hemochromatosis,B) Hämodialyse,C) Hemiplegie,D) Hemostase,2,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"22. What is the correct translation for ""Osteotomy""?",A) Osteopathie,B) Osteotomie,,,2,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"23. What is the correct translation for ""Dyspnea""?",A) Atemnot,B) Schwindelgefühl,,,1,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,24. What is the correct translation for Liposuction?,A) Lipolyse,B) Fettabsaugung,,,2,Yes,Yes,No,Yes,Yes,non-experts can falsely consider answer A as correct
+Terminology translation,QB4_en-de,English-German,"25. The German translation for ""Ventricular Fibrillation"" is:",A) Ventrikeldefibrillation,B) Kammerflattern,C) Kammerflimmern,D) Ventrikuläre Tachykardie,3,Yes,Yes,No,Yes,Yes,non-experts can falsely consider answer A and B as correct
+Terminology translation,QB4_en-de,English-German,"26. What is ""Hemochromatosis"" in German?",A) Hämatom,B) Hemiparese,C) Bronzediabetes,D) Hepatomegalie,3,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"27. ""Tonsillectomy"" translates to which of the following in German?",A) Tonsillitis,B) Mandelentzündung,C) Mandelentfernung,D) Tonsillektomie,3,Yes,No,No,Yes,Yes,non-experts can falsely consider answer A and D as correct
+Terminology translation,QB4_en-de,English-German,"28. ""Cesarean Section"" is translated to ""Kaiserschnitt"" in German.",TRUE,FALSE,,,1,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"29. ""Tracheostomy"" is the same as ""Tracheotomie"" in German.",TRUE,FALSE,,,1,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"30. ""Gastrectomy"" in English is ""Gastroenterologie"" in German.",TRUE,FALSE,,,2,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"31. Translate ""Estrogen Replacement Therapy"" into German.",A) Östrogensubstitution,B) Östrogenersatztherapie,C) Hormonersatztherapie,D) Östrogenbehandlung,2,Yes,Yes,No,Yes,Yes,non-experts can falsely consider the other answers as correct
+Terminology translation,QB4_en-de,English-German,"32. The German term for ""Strabismus"" is _______.",A) Strabologie,B) Strabismus,C) Schielen,D) Skoliose,3,Yes,Yes,No,Yes,Yes,non-experts can falsely consider the answers A or B as correct
+Terminology translation,QB4_en-de,English-German,"33. ""Catheterization"" in German is known as _______.",A) Katherisation,B) Katheterisierung,C) Kanülierung,D) Intubation,2,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"34. What is the correct translation for ""Palpitation""?",A) Palpation,B) Herzklopfen,,,2,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"35. What is the correct translation for ""Myasthenia Gravis""?",A) Erb-Goldflam-Syndrom,B) Gravis-Syndrom,,,1,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"36. What is the correct translation for “Stent""?",A) Stent,B) Stütze,,,1,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"37. ""Rheumatoid Arthritis"" in German is:",A) Rheumatoide Arthritis,B) Gelenkrheumatismus,C) Arthritis Rheumatica,D) Gelenkentzündung,1,Yes,Yes,Yes,Yes,Yes,Answer B can be correct too
+Terminology translation,QB4_en-de,English-German,"38. The German translation for ""Diuretics"" is:",A) Diuretika,B) Antidiuretika,C) Uretika,D) Urinex,1,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"39. What is ""Hysterectomy"" in German?",A) Hysterektomie,B) Uterusentfernung,C) Hysteroskopie,D) Hysterektomie,4,Yes,Yes,Yes,Yes,Yes,Answer A and D are the same
+Terminology translation,QB4_en-de,English-German,"40. ""Brachytherapy"" translates to ""Kontaktbestrahlung"" in German.",TRUE,FALSE,,,1,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"41. ""Hepatomegaly"" is the same as ""Hepatitis"" in German.",TRUE,FALSE,,,2,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"42. ""Laryngectomy"" in English is ""Kehlkopfentfernung"" in German.",TRUE,FALSE,,,1,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"43. Translate ""Hypoglycemia"" into German.",A) Hyperglykämie,B) Hypoglykämie,C) Unterzuckerung,D) Glukosemangel,3,Yes,Yes,Yes,Yes,Yes,"B, C, D are similar"
+Terminology translation,QB4_en-de,English-German,"44. The German term for ""Cholecystitis"" is _______.",A) Cholezystitis,B) Gallenstein,C) Gallenblasenentzündung,D) Cholelithiasis,3,Yes,Yes,Yes,Yes,Yes, 
+Terminology translation,QB4_en-de,English-German,"45. ""Epilepsy"" in German is known as _______.",A) Epilepsie,B) Krampfanfall,C) Zerebralparese,D) Anfallskrankheit,1,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"46. What is the correct translation for ""Dyspnea""?",A) Atemnot,B) Dyspnoe,,,1,Yes,Yes,No,Yes,Yes, 
+Terminology translation,QB4_en-de,English-German,"47. How is ""Quadruple Bypass Surgery"" translated?",A) Vierfach-Bypass-Operation,B) Quadrupel-Bypass-Operation,,,1,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"48. What is the correct translation for ""Mastectomy""?",A) Mastektomie,B) Mastentfernung,,,1,Yes,Yes,No,Yes,Yes,
+Terminology translation,QB4_en-de,English-German,"49. The German translation for ""Vertigo"" is:",A) Vertigo,B) Schwindel,C) Schwindelgefühl,D) Vertigokrankheit,3,Yes,Yes,Yes,Yes,Yes,answers A and B are correct too
+Terminology translation,QB4_en-de,English-German,"50. What is ""Gastrectomy"" in German?",A) Gastritis,B) Gastroenterologie,C) Magenentfernung,D) Gastrektomi,3,Yes,Yes,Yes,Yes,Yes,

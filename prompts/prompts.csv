@@ -1,0 +1,126 @@
+Prompt ID,Prompt
+QB1,"I want to test the subject matter expertise of medical translators within the topic of clinical trials and clinical trial protocols. Create a questionnaire, fully in English, containing 50 multiple choice questions. Each question must have a stem and 4 answer choices in the format A), B), C) and D). Ask about terminology taken from real life clinical trials and clinical trials protocols. Include plausible distractors in the answer choices, which means the answer choices should be similar to each other and the question in category, morphology or syntax. All the answer choices must have similar length. Do not include correct answers that share the same root as words in the stem. Make sure every question includes specialized terminology found in real life clinical trials or clinical trial protocols, so that the questionnaire would be impossible for someone with no expertise in medicine to answer correctly. Identify the correct answer at the end of each question."
+QB2,"I want to test the subject matter expertise of medical translators within the topic of complex general medical information. Create a questionnaire, fully in English, containing 50 alternate choice questions. Each question must have 2 answer choices. Include plausible distractors in the answer choices, which means the answer choices should be similar to each other and the question in category, morphology or syntax. The answer choices must have similar length. Do not include correct answers that share the same root as words in the stem. Make sure this questionnaire would be impossible for someone without a great level of expertise in medical knowledge to answer correctly. Identify the correct answer at the end of each question."
+QB3,"I want to test the subject matter expertise of medical translators on clinical studies. Create a questionnaire containing 50 fill in the blank questions, each with four answer choices, in the format A), B), C) and D). Ask about specialized terminology found in real life clinical studies. Include plausible distractors in the answer choices, which means the answer choices should be similar to each other and the question in category, morphology or syntax. The answer choices must have similar length. Do not include correct answers that share the same root as words in the stem. The answers must not have acronyms. Identify the correct answer at the end of each question."
+QB4_en-pt_pt,"I want to test the subject matter expertise of English to European Portuguese translators, in the domain of medical knowledge. Create a questionnaire containing 50 translation questions. These are the word pairs to include:
+Adverse event - Acontecimento adverso
+Adverse Drug Reactions - Reações adversas a medicamentos
+Blinding - Ocultação
+Case report form - Caderno de recolha de dados
+Clinical research - Investigação clínica
+Clinical research coordinator - Coordenador de ensaios clínicos
+Clinical study - Estudo clínico
+Clinical trial - Ensaio clínico
+Clinical trial monitoring - Monitorização de ensaios clínicos
+Close-out Visit - Visita de encerramento
+Contract research organization - Organização de pesquisa contratada
+Double-blind study - Estudo duplo-cego
+Follow up visit - Entrevista de seguimento
+Good Clinical Practices - Boas práticas clínicas
+Informed consent form - Formulário de Consentimento Informado e Esclarecido
+Investigational Medicinal Product - Medicamento experimental
+Investigator's Brochure - Brochura do investigador
+Monitoring Visit - Visita de monitorização
+Multicenter clinical trial - Estudo clínico multicêntrico
+Participant/subject - Participante
+Principal Investigator - Investigador principal 
+Randomisation- Aleatorização 
+Regulatory agencies- Autoridades reguladoras 
+Research Ethics Committee- Comissão de Ética para a Investigação Clínica (CEIC)
+Research protocol- Protocolo de investigação 
+Serious Adverse Event- Acontecimento adverso grave 
+Site Initiation Visit- Visita de início 
+Sponsor- Promotor 
+Study staff- Equipa de investigação
+Baseline - Linha basal
+Chicken pox infection - Varicela
+Blood test - Análise sanguínea
+Child-bearing potential - Em período fértil
+Clinical pharmacology study - Estudo clínico de medicamento
+Cervical cap - Capuz cervical
+Disposable instruments - Material descartável
+Feasibility - Exequibilidade 
+Functional loss - Perda de função 
+Health outcome - Resultados na melhoria do estado de saúde 
+Investigator initiated study – Estudo por iniciativa do investigador
+Particle therapy – Terapêutica de partículas 
+Myocardial infarction – Enfarte do miocárdio
+Prevention and early detection – Prevenção e detecção precoce 
+Research grant – Bolsa de estudo 
+Relapsing forms of multiple sclerosis - Formas de esclerose múltipla recorrente remissiva 
+Scheduled visits – Consultas marcadas 
+Tinnitus treatment – Tratamento do zumbido 
+Seizures - Convulsões
+Prescription drug - Medicamento com receita médica
+
+
+Provide multiple choice questions, true and false questions, fill in the blank questions and alternate choice questions. For the fill in the blank questions, provide four answer choices in the format A), B), C) and D). Make sure the correct answer is not easy to find. Here are two examples of what I want:
+
+How would you translate “Health outcome” into European Portuguese:
+Resultados de saúde
+Resultados na melhoria do estado de saúde (correct answer)
+Resultados na melhoria do processo de saúde
+Resultados saudáveis
+
+What is the correct translation for “feasibility”?
+Funcionalidade
+Fazibilidade
+Exequibilidade
+Indicador de progressão
+
+ Provide the correct answer at the end of each question."
+QB4_en-de,"I want to test the subject matter expertise of English to German translators, in the domain of medical knowledge. Create a questionnaire containing 50 translation questions. These are the word pairs to include:
+Hypertension - erhöhter Blutdruck
+Edema - Ödem
+Appendicitis - Blinddarmentzündung
+Meningitis - Hirnhautentzündung
+Varicella - Windpocken
+Vaccine - Impfstoff
+Conjunctivitis - Bindehautentzündung
+Analgesic - Schmerzmittel
+Anemia - Anämie
+Obesity - Adipositas
+Palpitation - Herzklopfen
+Cardiac Arrest - Herzstillstand
+Pulmonary Embolism - Lungenembolie
+Cirrhosis - Leberzirrhose
+Jaundice - Gelbsucht
+Rheumatoid Arthritis - Gelenkrheumatismus
+Pacemaker - Herzschrittmacher
+Ultrasound - Ultraschall
+Quadruple Bypass Surgery - Vierfach-Bypass-Operation
+Cataract - Katarakt
+Myocardial Infarction - Herzinfarkt
+Mastectomy - Mastektomie
+Hepatitis - Hepatitis
+Epilepsy - Epilepsie
+Nephrology - Nierenheilkunde
+Hepatomegaly - Lebervergrößerung
+Dyspnea - Atemnot
+Cholecystitis - Gallenblasenentzündung
+Hypoglycemia - Unterzuckerung
+Laryngectomy - Kehlkopfentfernung
+Estrogen Replacement Therapy - Östrogenersatztherapie
+Liposuction - Fettabsaugung
+Hemodialysis - Hämodialyse
+Cesarean Section - Kaiserschnitt
+Osteotomy - Osteotomie
+Myasthenia Gravis - Erb-Goldflam-Syndrom
+Diuretics - Diuretika
+Hysterectomy - Hysterektomie
+Brachytherapy - Kontaktbestrahlung
+Atherosclerosis - Arterienverkalkung
+Hemochromatosis - Bronzediabetes
+Vertigo - Schwindelgefühl
+Stent - Stent
+Ventricular Fibrillation - Kammerflimmern
+Tonsillectomy - Mandelentfernung
+Dysuria - Dysurie
+Catheterization - Katheterisierung
+Strabismus - Schielen
+Tracheostomy - Tracheotomie
+Gastrectomy - Magenentfernung
+
+Provide multiple choice questions, true and false questions, fill in the blank questions and alternate choice questions. For the fill in the blank questions, provide four answer choices in the format A), B), C) and D). Make sure the correct answer is not too easy to find. 
+
+ Provide the correct answer at the end of each question."

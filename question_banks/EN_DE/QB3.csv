@@ -1,0 +1,59 @@
+Subfield(s),Prompt ID,Test language(s),QUESTION,OPTION 1,OPTION 2,OPTION 3,OPTION 4,CORRECT ANSWER,"Question Accuracy: The way the question is worded is clear and unambiguous, so the correct answer could be clearly identified by an expert.","Correct Answer Factuality: Is the option identified as the correct answer factual and unambiguous? Click ""Yes"" if the correct answer does not need alterations.","Non-ambiguous answer choices:In the options presented, are there others that could be considered correct?",Prevalence of correct answer: State if the answer identified as correct is the most commonly accepted within this SME domain.,"Plausible distractors: A good question should have plausible distractors: it should not be too easy to guess the right answer, like what happens when the question and the right answer share the same word.
+Example of not having plausible distractors: The medical term for inflammation of the eye's conjunctiva is ________.
+A) Conjunctivitis        B) Keratitis
+Example of having plausible distractors:
+15. Inflammation of the joints is medically referred to as ________.
+A) Osteoporosis        B) Arthritis        C) Bursitis        
+D) Tendonitis
+
+",Add any further comments regarding this question below.
+Clinical Studies,QB3,English,1. The medical term for a substance or treatment that has no therapeutic effect is called a ________.,A) Placebo,B) Panacea,C) Elixir,D) Tonic,1,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,2. The study of the effects of drugs on the human body is known as ________.,A) Pharmacology,B) Pathology,C) Physiology,D) Phlebotomy,1,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,3. The medical term for high blood pressure is ________.,A) Hypotension,B) Hypertension,C) Hyperglycemia,D) Hyperlipidemia,2,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,4. The medical term for low blood sugar is ________.,A) Hyperglycemia,B) Hypoglycemia,C) Hyperlipidemia,D) Hypolipidemia,2,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,5. The medical term for an abnormal accumulation of fluid in the lungs is ________.,A) Pneumonia,B) Bronchitis,C) Pulmonary edema,D) Asthma,3,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,"6. The condition characterized by the loss of bone density, leading to an increased risk of fracture, is known as ________.",A ) Osteoporosis,B ) Arthritis,C ) Osteoarthritis,D ) Scoliosis,1,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,7. An abnormal rhythm of the heart is referred to as ________.,A ) Myocardial infarction,B ) Angina,C ) Arrhythmia,D ) Stenosis,3,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,8. The medical term for a stroke is ________.,A ) Hemiplegia,B ) Paraplegia,C ) Cerebral infarction,D ) Aphasia,3,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,9. The medical term for inflammation of the liver is ________.,A) Hepatitis,B) Cirrhosis,C) Cholecystitis,D) Pancreatitis,1,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,10. The study of diseases and their causes is known as ________.,A) Epidemiology,B) Etiology,C) Pathology,D) Oncology,3,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,11. The medical term for a heart attack is ________.,A ) Angina,B ) Myocardial infarction,C ) Arrhythmia,D ) Stenosis,2,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,12. The medical term for inflammation of the stomach lining is ________.,A) Gastritis,B) Gastroenteritis,C) Peptic ulcer,D) Duodenitis,1,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,13. The study of tumors and cancer is known as ________.,A) Oncology,B) Hematology,C) Nephrology,D) Cardiology,1,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,14. An abnormally low level of white blood cells in the blood is called ________.,A) Leukemia,B) Lymphoma,C) Leukocytosis,D) Leukopenia,4,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,15. Inflammation of the joints is medically referred to as ________.,A) Osteoporosis,B) Arthritis,C) Bursitis,D) Tendonitis,2,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,16. The medical term for inflammation of the kidney is ________.,A) Nephritis,B) Hepatitis,C) Gastritis,D) Pancreatitis,1,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,17. The medical term for inflammation of the bladder is ________.,A) Cystitis,B) Urethritis,C) Prostatitis,D) Pyelonephritis,1,Yes,Yes,No,Yes,Yes,Uretheritis can fool non-expert test-takers as the correct answer
+Clinical Studies,QB3,English,18. The medical term for inflammation of the colon is ________.,A ) Colitis,B ) Gastritis,C ) Enteritis,D ) Duodenitis,1,Yes,Yes,No,Yes,No,
+Clinical Studies,QB3,English,19. The study of the function of body organs is known as ________.,A ) Anatomy,B ) Physiology,C ) Pathology,D ) Histology,2,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,"20. The medical term for a blood clot in a deep vein, often in your legs, is ________.",A ) Embolism,B ) Thrombosis,C ) Hemorrhage,D ) Ischemia,2,Yes,Yes,No,Yes,Yes,embolism and thrombosis are in some way similar
+Clinical Studies,QB3,English,21. The medical term for hardening and narrowing of the arteries is ________.,A ) Arteriosclerosis,B ) Hypertension,C ) Angina,D ) Arrhythmia,1,Yes,Yes,No,Yes,No,
+Clinical Studies,QB3,English,22. The study of blood and blood-forming tissues is known as ________.,A ) Oncology,B ) Hematology,C ) Nephrology,D ) Cardiology,2,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,23. The medical term for inflammation of the appendix is ________.,A ) Appendicitis,B ) Peritonitis,C ) Cholecystitis,D ) Pancreatitis,1,Yes,Yes,No,Yes,No,
+Clinical Studies,QB3,English,24. The medical term for inflammation of the gallbladder is ________.,A) Gastritis,B) Cholecystitis,C) Hepatitis,D) Pancreatitis,2,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,25. The study of the kidney and its diseases is known as ________.,A) Oncology,B) Hematology,C) Nephrology,D) Cardiology,3,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,26. The medical term for inflammation of the pancreas is ________.,A) Gastritis,B) Cholecystitis,C) Hepatitis,D) Pancreatitis,4,Yes,Yes,No,Yes,No,
+Clinical Studies,QB3,English,27. The study of the heart and its diseases is known as ________.,A) Oncology,B) Hematology,C) Nephrology,D) Cardiology,4,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,28. Inflammation of the lining of the lungs and chest cavity is known as ________.,A ) Bronchitis,B ) Pneumonia,C ) Pleurisy,D ) Tuberculosis,3,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,29. The study of diseases that can cause abnormalities in the structure or function of body organs is known as ________.,A ) Anatomy,B ) Physiology,C ) Pathology,D ) Histology,3,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,30. The medical term for inflammation of the bronchial tubes is ________.,A) Bronchitis,B) Pneumonia,C) Pleurisy,D) Tuberculosis,1,Yes,Yes,No,Yes,No,Bronchitis and Pneumonia show similar symptoms
+Clinical Studies,QB3,English,31. The study of the microscopic structure of tissues is known as ________.,A ) Anatomy,B ) Physiology,C ) Pathology,D ) Histology,4,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,32. The medical term for inflammation of the skin is ________.,A) Dermatitis,B) Eczema,C) Psoriasis,D) Urticari,1,Yes,Yes,No,Yes,Yes,Dermatitis and Ekcema are similar
+Clinical Studies,QB3,English,"33. The study of the cause, distribution, and control of diseases in populations is known as ________.",A) Epidemiology,B) Etiology,C) Pathology,D) Oncology,1,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,34. The medical term for inflammation of a vein is ________.,A ) Phlebitis,B ) Thrombosis,C ) Embolism,D ) Hemorrhage,1,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,35. The study of the nature and cause of disease as it affects the structure and function of body parts is known as ________.,A ) Anatomy,B ) Physiology,C ) Pathology,D ) Histology,3,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,36. The medical term for inflammation of the eye's conjunctiva is ________.,A) Conjunctivitis,B) Keratitis,C) Glaucoma,D) Uveitis,1,Yes,Yes,No,Yes,No,
+Clinical Studies,QB3,English,37. The study of the structure of body parts and their relationship to one another is known as ________.,A ) Anatomy,B ) Physiology,C ) Pathology,D ) Histology,1,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,38. The medical term for inflammation of the inner lining of the heart is ________.,A) Endocarditis,B) Pericarditis,C) Myocarditis,D) Cardiomyopathy,1,Yes,Yes,No,Yes,Yes,Endocarditis and Pericarditis are in some way similar
+Clinical Studies,QB3,English,"39. The study of the function and diseases of the esophagus, stomach and intestines is known as ________.",A) Gastroenterology,B) Endocrinology,C) Nephrology,D) Neurology,1,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,40. The medical term for inflammation of the brain is ________.,A) Encephalitis,B) Meningitis,C) Neuritis,D) Cerebritis,1,Yes,Yes,No,Yes,Yes,Encephalits and Meningitis are similar
+Clinical Studies,QB3,English,41. The study of hormones and disorders of the endocrine glands is known as ________.,A) Gastroenterology,B) Endocrinology,C) Nephrology,D) Neurology,2,Yes,Yes,No,Yes,No,
+Clinical Studies,QB3,English,"42. The medical term for inflammation of the meninges, the membranes covering the brain and spinal cord, is ________.",A ) Encephalitis,B ) Meningitis,C ) Neuritis,D ) Cerebritis,2,Yes,Yes,No,Yes,No,Encephalitis and Meningits are similar in some way
+Clinical Studies,QB3,English,"43. The study of disorders that affect the nervous system, including the brain, spinal cord, and nerves, is known as ________.",A ) Gastroenterology,B ) Endocrinology,C ) Nephrology,D ) Neurology,4,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,44. The medical term for inflammation of a nerve or nerves is ________.,A ) Encephalitis,B ) Meningitis,C ) Neuritis,D ) Cerebritis,3,Yes,Yes,No,Yes,No,
+Clinical Studies,QB3,English,45. The study of diseases affecting the respiratory system is known as ________.,A) Pulmonology,B) Cardiology,C) Nephrology,D) Neurology,4,Yes,No,Yes,No,No,the correct answer is 1
+Clinical Studies,QB3,English,46. The medical term for inflammation of the lining of the lungs is ________.,A ) Bronchitis,B ) Pneumonia,C ) Pleurisy,D ) Tuberculosis,3,Yes,Yes,No,Yes,Yes,"non-expert test-takers can think other answers are correct, e. g. pneumonia"
+Clinical Studies,QB3,English,47. The study of diseases affecting the urinary tract and the male reproductive system is known as ________.,A) Urology,B) Cardiology,C) Nephrology,D) Neurology,1,Yes,Yes,No,Yes,No,
+Clinical Studies,QB3,English,48. The medical term for inflammation of the urinary bladder is ________.,A ) Cystitis,B ) Urethritis,C ) Prostatitis,D ) Pyelonephritis,1,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,49. The study of diseases affecting the female reproductive system is known as ________.,A) Gynecology,B) Cardiology,C) Nephrology,D) Neurology,1,Yes,Yes,No,Yes,Yes,
+Clinical Studies,QB3,English,"50. The medical term for inflammation of a woman's uterus, fallopian tubes, or ovaries is ________.",A ) Endometriosis,B ) Pelvic inflammatory disease,C ) Menorrhagia,D ) Dysmenorrhea,2,Yes,Yes,No,Yes,Yes,
